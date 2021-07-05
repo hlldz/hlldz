@@ -1,10 +1,8 @@
-# Halil Dalabasmaz | hlldz
+# hlldz | Halil Dalabasmaz
 
 Hi!
 
-My name is Halil Dalabasmaz. I consider myself Pwner.
-
-Currently, I work for a cyber security company based in Turkey as Red Team Leader. I like to share my findings on my personal blog [artofpwn.com](https://artofpwn.com). Also I currently hold CEH, OSCP, OSWP, OSCE, eWPT, eWPTX, eMAPT and CRTO certificates. I like research and development on cyber security field.
+I like research and development on cyber security field.
 
 Feel free to leave feedback. You can also find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
